@@ -1,0 +1,8 @@
+    1  git status
+    2  gin int
+    3  gin init
+    4  git init
+    5  git status
+    6  rm -rf .git
+    7  history
+    8  history >> note.txt
