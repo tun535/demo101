@@ -1,1 +1,6 @@
 New file
+new 1
+new 2
+new file naja
+new 4
+new 5
